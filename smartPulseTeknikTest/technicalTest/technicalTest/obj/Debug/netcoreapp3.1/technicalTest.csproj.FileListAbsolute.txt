@@ -1,0 +1,14 @@
+C:\smartPulseTeknikTest\technicalTest\technicalTest\bin\Debug\netcoreapp3.1\technicalTest.exe
+C:\smartPulseTeknikTest\technicalTest\technicalTest\bin\Debug\netcoreapp3.1\technicalTest.deps.json
+C:\smartPulseTeknikTest\technicalTest\technicalTest\bin\Debug\netcoreapp3.1\technicalTest.runtimeconfig.json
+C:\smartPulseTeknikTest\technicalTest\technicalTest\bin\Debug\netcoreapp3.1\technicalTest.runtimeconfig.dev.json
+C:\smartPulseTeknikTest\technicalTest\technicalTest\bin\Debug\netcoreapp3.1\technicalTest.dll
+C:\smartPulseTeknikTest\technicalTest\technicalTest\bin\Debug\netcoreapp3.1\technicalTest.pdb
+C:\smartPulseTeknikTest\technicalTest\technicalTest\obj\Debug\netcoreapp3.1\technicalTest.csproj.AssemblyReference.cache
+C:\smartPulseTeknikTest\technicalTest\technicalTest\obj\Debug\netcoreapp3.1\technicalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\smartPulseTeknikTest\technicalTest\technicalTest\obj\Debug\netcoreapp3.1\technicalTest.AssemblyInfoInputs.cache
+C:\smartPulseTeknikTest\technicalTest\technicalTest\obj\Debug\netcoreapp3.1\technicalTest.AssemblyInfo.cs
+C:\smartPulseTeknikTest\technicalTest\technicalTest\obj\Debug\netcoreapp3.1\technicalTest.csproj.CoreCompileInputs.cache
+C:\smartPulseTeknikTest\technicalTest\technicalTest\obj\Debug\netcoreapp3.1\technicalTest.dll
+C:\smartPulseTeknikTest\technicalTest\technicalTest\obj\Debug\netcoreapp3.1\technicalTest.pdb
+C:\smartPulseTeknikTest\technicalTest\technicalTest\obj\Debug\netcoreapp3.1\technicalTest.genruntimeconfig.cache
